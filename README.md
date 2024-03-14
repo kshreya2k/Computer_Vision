@@ -8,7 +8,7 @@ Hi, I'm Shreya! I'm passionate about exploring the realms of Computer Vision and
 ## Project List:
 
 1. **Fine-tuned VGG16 (99% Accuracy)** - Jupyter Notebook
-   - This notebook demonstrates fine-tuning the VGG16 model for image classification tasks, achieving a high accuracy of 99%.
+   - This notebook demonstrates fine-tuning the VGG16 model for image classification tasks.
    - [View Notebook](fine-tuned-vgg16-99-acc-keras-starter-part-2.ipynb)
 
 2. **Image Classification with VGG16 CNN** - Jupyter Notebook
@@ -16,7 +16,7 @@ Hi, I'm Shreya! I'm passionate about exploring the realms of Computer Vision and
    - [View Notebook](image-classification-keras-starter-vgg16-cnn.ipynb)
 
 3. **Indian Sign Language Image Classification with MobileNet (99.96% Accuracy)** - Jupyter Notebook
-   - Demonstrates image classification of Indian Sign Language using a MobileNet architecture with an impressive accuracy of 99.96%.
+   - Demonstrates image classification of Indian Sign Language using a MobileNet architecture with Tensorflow framework.
    - [View Notebook](isl-image-classification-mobilenet-0-9996-cnn.ipynb)
   
 Work in Progress for more!
